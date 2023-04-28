@@ -43,12 +43,6 @@ Live demo [_here_](https://redactrapp.netlify.app/index.html).
 - Choose a scramble pattern in the pattern drop down
 - Then click on redact now
 
-
-## Acknowledgements
-
-- This project was inspired by AltSchool Africa Holiday Challenge
-- Created by Circle-70
-
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
